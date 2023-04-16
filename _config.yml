@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: Amaury Dehecq
-bio: "Research scientist at IGE, Grenoble, France, and employed by IRD, working on remote sensing of glacier changes."
+title: Evan Miles
+bio: "Glaciologist at WSL, Birmensdorf, Switzerland"
 locale: en_US
 url: 
 image:
@@ -30,19 +30,18 @@ kramdown:
 
 # Site owner
 owner:
-  name: Amaury Dehecq
+  name: Evan Miles
   avatar: photo_profil.jpg
-  bio: "Research scientist at IGE, Grenoble, France, and employed by IRD, working on remote sensing of glacier changes."
-  github: adehecq
-  bitbucket: adehecq
-  orcid: 0000-0002-5157-1183
-  scholar: 4Fk2yxUAAAAJ
+  bio: "Glaciologist at WSL, Birmensdorf, Switzerland"
+  github: miles916
+  orcid: 0000-0001-5446-8571
+  scholar: uDN1U6gAAAAJ
   mendeley:
-  researchgate:
+  researchgate: Evan-Miles-2
   stackoverflow: 
-  email:
+  email: evan.miles@wsl.ch
   disqus-shortname: 
-  twitter: 
+  twitter: Miles_of_Ice
   facebook: 
   google:
     plus: 
