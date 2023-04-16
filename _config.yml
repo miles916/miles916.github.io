@@ -1,0 +1,68 @@
+# Site wide configuration
+
+title: Amaury Dehecq
+bio: "Research scientist at IGE, Grenoble, France, and employed by IRD, working on remote sensing of glacier changes."
+locale: en_US
+url: 
+image:
+  feature: fm-header-1.jpg
+
+# Jekyll configuration
+
+permalink:   pretty
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+plugins:
+  - jekyll-seo-tag
+  
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+
+# Site owner
+owner:
+  name: Amaury Dehecq
+  avatar: photo_profil.jpg
+  bio: "Research scientist at IGE, Grenoble, France, and employed by IRD, working on remote sensing of glacier changes."
+  github: adehecq
+  bitbucket: adehecq
+  orcid: 0000-0002-5157-1183
+  scholar: 4Fk2yxUAAAAJ
+  mendeley:
+  researchgate:
+  stackoverflow: 
+  email:
+  disqus-shortname: 
+  twitter: 
+  facebook: 
+  google:
+    plus: 
+    analytics: UA-88391345-1
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  linkedin: #username
+  instagram: 
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

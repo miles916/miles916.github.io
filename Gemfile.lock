@@ -1,0 +1,62 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorator
+    ffi
+    jekyll
+      colorator
+      jekyll-sass-converter
+      jekyll-watch
+      kramdown
+      liquid
+      mercenary
+      rouge
+      safe_yaml
+    jekyll-sass-converter
+      sass
+    jekyll-sitemap
+    jekyll-watch
+      listen
+    kramdown (>= 2.3.0)
+    liquid
+    listen
+      rb-fsevent (>= 0.9.3)
+      rb-inotify (>= 0.9.7)
+    mercenary
+    multi_json
+    octopress
+      jekyll (>= 2.0)
+      mercenary
+      octopress-deploy
+      octopress-escape-code
+      octopress-hooks
+      redcarpet
+      titlecase
+    octopress-deploy
+      colorator
+    octopress-escape-code
+      jekyll
+    octopress-hooks
+      jekyll (>= 2.0)
+    pygments.rb
+      multi_json (>= 1.0.0)
+    rb-fsevent
+    rb-inotify
+      ffi (>= 0.5.0)
+    redcarpet
+    rouge
+    safe_yaml
+    sass
+    titlecase
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll (>= 3.6.3)
+  jekyll-sitemap
+  octopress
+  pygments.rb
+
+BUNDLED WITH
+   1.17.3
