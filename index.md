@@ -1,7 +1,7 @@
 ---
 layout: homepage
 image:
-  feature: pic_header_1.jpg
+  feature: banner1_Shalbachum.png
 ---
 
 <footer role="contentinfo">
