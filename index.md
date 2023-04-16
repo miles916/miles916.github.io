@@ -19,6 +19,7 @@ Swiss Federal Institute for Forest, Snow, and Landscape Research WSL
 Zurcherstrasse 111
 Birmensdorf 8903
 Switzerland  
+<a href="[http://example.com](https://www.wsl.ch/en/employees/miles.html)">Personal Website at WSL</a>
 
 *Email:* evan.miles at wsl.ch
 
