@@ -11,7 +11,8 @@ title: Publications
 ![Scholar]({{ site.url }}/images/scholar.png) [Google Scholar](https://scholar.google.com/citations?user=uDN1U6gAAAAJ&hl=en)   
 ![Twitter]({{ site.url }}/images/twitter.png) [Twitter](https://twitter.com/Miles_of_Ice)   
 
-##Peer-reviewed publications
+## Peer-reviewed publications
+
 52. Kneib, M., Fyffe, C.L., Miles, E.S., Lindemann, S., Shaw, T.E., Buri, P., McCarthy, M., Ouvry, B., Vieli, A., Sato, Y., Kraaijenbrink, P., Zhao, C., Molnar, P, and Pellicciotti, F. (2023) Controls on Ice Cliff Distribution and Characteristics on Debris-Covered Glaciers, Geophysical Research Letters, 50(6) e2022GL102444. https://doi.org/10.1029/2022GL102444   
 
 51. Jouberton, A., Miles, E. S., Shaw, T., McCarthy, M., Fugger, S., and Pellicciotti, F. (2023) Reply to Yang et al.: Global warming and black carbon simultaneously lead to glacier mass decline over the southeastern Tibetan Plateau, PNAS, 120(12) e2301467120. https://doi.org/10.1073/pnas.2301467120  
@@ -115,3 +116,21 @@ title: Publications
 2. Radic, V., Bliss, A., Beedlow, A.C., Hock, R., Miles, E., Cogley, G. (2014). Regional and global projections of the 21st century glacier mass changes in response to climate scenarios from GCMs. Climate Dynamics, 42(1-2): 37-58. doi: 10.1007/s00382-013-1719-7 
 
 1. Jones, J.A., Creed, I.F., Hatcher, K.L., Warren, R.J., Adams, M.B., Benson, M.H., Boose, E., Brown, W., Campbell, J.L., Covich, A., Clow, D.W., Dahm, C.N., Elder, K., Ford, C.R., Grimm, N.B., Henshaw, D.L., Larson, K.L., Miles, E.S., Miles, K.M., Sebestyen, S., Spargo, A.T., Stone, A., Vose, J.M., Williams, M.W.  (2012). Ecosystem Controls on Streamflow Response to Land-use Change, Climate Change, and Climate Variability at Long-Term Ecological Research Sites.   Bioscience, 62(4): 390-404. doi: 10.1525/bio.2012.62.4.10 
+
+## Blogs and other articles
+
+https://swisspolar.ch/2020/03/peeking-inside-a-himalayan-glacier-evan-miles/
+
+https://www.gatescambridge.org/about/news/measuring-glacial-melt/
+
+https://www.wsl.ch/en/news/2021/05/the-fate-of-many-asian-glaciers-is-sealed.html
+
+https://www.cam.ac.uk/research/discussion/perspectives-on-the-nepal-earthquake
+
+## Mountaineering
+
+https://publications.americanalpineclub.org/articles/13201214080/Cloue-Icefield-Exploration-and-Ascents
+
+http://publications.americanalpineclub.org/articles/13201213201/Peak-6192m-West-Face-Burning-Kharkas
+
+http://publications.americanalpineclub.org/articles/13201213312/Volcn-Aguilera
